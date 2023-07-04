@@ -30,6 +30,7 @@ scipy>=1.8.0     ; python_version < '3.11' and python_version >= '3.10'    # Pyt
 scipy>=1.8.0     ; python_version < '3.10' and python_version >= '3.9'    # Python 3.9
 scipy>=1.8.0     ; python_version < '3.9' and python_version >= '3.8'    # Python 3.8
 scipy>=1.6.0     ; python_version < '3.8' and python_version >= '3.7'    # Python 3.7
+scipy>=1.5.4     ; python_version < '3.7' and python_version >= '3.6'    # Python 3.7 --sc
 
 six >= 1.10.0
 
@@ -52,6 +53,7 @@ statsmodels>=0.13.1    ; python_version < '3.11' and python_version >= '3.10'   
 statsmodels>=0.13.1    ; python_version < '3.10' and python_version >= '3.9'    # Python 3.9
 statsmodels>=0.13.1    ; python_version < '3.9' and python_version >= '3.8'    # Python 3.8
 statsmodels>=0.12.2     ; python_version < '3.8' and python_version >= '3.7'    # Python 3.7
+statsmodels>=0.12.2     ; python_version < '3.7' and python_version >= '3.6'    # Python 3.6 --sc
 
 ubelt >= 1.2.3
 utool >= 2.1.7
