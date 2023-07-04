@@ -21,3 +21,4 @@ vtool_ibeis_ext>=0.1.0     ; python_version < '3.11' and python_version >= '3.10
 vtool_ibeis_ext>=0.1.0     ; python_version < '3.10' and python_version >= '3.9'     # Python 3.9
 vtool_ibeis_ext>=0.1.0     ; python_version < '3.9'  and python_version >= '3.8'     # Python 3.8
 vtool_ibeis_ext>=0.1.0     ; python_version < '3.8'  and python_version >= '3.7'     # Python 3.7
+vtool_ibeis_ext>=0.1.0     ; python_version < '3.7'  and python_version >= '3.6'     # Python 3.6 --sc
